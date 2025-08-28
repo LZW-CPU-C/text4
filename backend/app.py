@@ -11,13 +11,18 @@ import json
 import traceback
 app = Flask(__name__)
 CORS(app)
-
+from pathlib import Path
+from filelock import FileLock
 # 缓存目录
-CACHE_DIR = 'backend/cache'
-os.makedirs(CACHE_DIR, exist_ok=True)
-
+# CACHE_DIR = 'backend/cache'
+# os.makedirs(CACHE_DIR, exist_ok=True)
+# 缓存配置（替换原有的CACHE_DIR定义）
+CACHE_DIR = Path("data/cache")
+CACHE_EXPIRE_SECONDS = 3600  # 1小时有效期
+MAX_CACHE_SIZE = 1024 * 1024 * 1024  # 1GB上限
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))  # 获取当前脚本所在的目录
 DATA_FILE = os.path.join(BASE_DIR, 'data', 'restaurants.csv')
+
 
 # 加载数据
 df = dp.load_data(DATA_FILE)
@@ -35,22 +40,50 @@ def get_cache_key(city, keywords):
     key_str = f"{city}_{'_'.join(keywords)}"
     return hashlib.md5(key_str.encode()).hexdigest()
 
-def get_cached_data(cache_key):
-    """获取缓存数据"""
-    cache_file = os.path.join(CACHE_DIR, f"{cache_key}.json")
-    if os.path.exists(cache_file):
-        # 检查缓存是否过期（1小时）
-        if time.time() - os.path.getmtime(cache_file) < 3600:
-            with open(cache_file, 'r', encoding='utf-8') as f:
+# def get_cached_data(cache_key):
+#     """获取缓存数据"""
+#     cache_file = os.path.join(CACHE_DIR, f"{cache_key}.json")
+#     if os.path.exists(cache_file):
+#         # 检查缓存是否过期（1小时）
+#         if time.time() - os.path.getmtime(cache_file) < 3600:
+#             with open(cache_file, 'r', encoding='utf-8') as f:
+#                 return json.load(f)
+#     return None
+# 优化后的读取缓存函数（替代原逻辑）
+def get_cached_data(cache_key: str) -> dict | None:
+    cache_file = _get_cache_path(cache_key)
+    if not cache_file.exists():
+        return None
+    # 检查过期
+    if time.time() - cache_file.stat().st_mtime > CACHE_EXPIRE_SECONDS:
+        return None
+    # 加锁读取
+    lock_file = Path(f"{cache_file}.lock")
+    with FileLock(lock_file):
+        try:
+            with open(cache_file, "r", encoding="utf-8") as f:
                 return json.load(f)
-    return None
-
-def save_data_to_cache(cache_key, data):
-    """保存数据到缓存"""
-    cache_file = os.path.join(CACHE_DIR, f"{cache_key}.json")
-    with open(cache_file, 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-
+        except (json.JSONDecodeError, EOFError):
+            cache_file.unlink(missing_ok=True)  # 删除损坏文件
+            return None
+# def save_data_to_cache(cache_key, data):
+#     """保存数据到缓存"""
+#     cache_file = os.path.join(CACHE_DIR, f"{cache_key}.json")
+#     with open(cache_file, 'w', encoding='utf-8') as f:
+#         json.dump(data, f, ensure_ascii=False, indent=2)
+# 优化后的写入缓存函数（替代原save_data_to_cache）
+def save_data_to_cache(cache_key: str, data: dict) -> None:
+    cache_file = _get_cache_path(cache_key)
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)  # 确保目录存在
+    lock_file = Path(f"{cache_file}.lock")
+    with FileLock(lock_file):
+        # 原子写入（先写临时文件）
+        temp_file = cache_file.with_suffix(".tmp.json")
+        with open(temp_file, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        temp_file.rename(cache_file)  # 原子替换
+    # 检查并清理缓存
+    clean_cache_if_needed()
 # ... 其他API端点保持不变 ...
 @app.route('/api/clusters', methods=['GET'])
 def get_clusters():
@@ -178,6 +211,36 @@ def get_reverse_geocode():
         return jsonify({"address": address}) if address else jsonify({"error": "逆地理编码失败"}), 400
     except Exception as e:
         return jsonify({"error": str(e)}), 500
-
+# 新增：生成缓存路径（处理长键名）
+def _get_cache_path(cache_key: str) -> Path:
+    if len(cache_key) > 64:
+        cache_key = hashlib.sha256(cache_key.encode()).hexdigest()
+    return CACHE_DIR / f"{cache_key}.json"
+# 新增：清理过期缓存
+def clean_expired_cache() -> None:
+    if not CACHE_DIR.exists():
+        return
+    for cache_file in CACHE_DIR.glob("*.json"):
+        if time.time() - cache_file.stat().st_mtime > CACHE_EXPIRE_SECONDS:
+            cache_file.unlink(missing_ok=True)
+            Path(f"{cache_file}.lock").unlink(missing_ok=True)
+# 新增：缓存大小超限清理
+def clean_cache_if_needed() -> None:
+    if not CACHE_DIR.exists():
+        return
+    total_size = sum(f.stat().st_size for f in CACHE_DIR.glob("*.json"))
+    if total_size <= MAX_CACHE_SIZE:
+        return
+    # 按修改时间排序，清理最早的文件
+    cache_files = sorted(CACHE_DIR.glob("*.json"), key=lambda f: f.stat().st_mtime)
+    current_size = total_size
+    for f in cache_files:
+        current_size -= f.stat().st_size
+        f.unlink(missing_ok=True)
+        Path(f"{f}.lock").unlink(missing_ok=True)
+        if current_size <= MAX_CACHE_SIZE * 0.8:
+            break
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
+    # 初始化时清理一次过期缓存
+    clean_expired_cache()

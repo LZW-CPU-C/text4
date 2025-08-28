@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "B0HUXNI0ZD",
+    "name": "麦当劳(深圳中心书城餐厅)",
+    "type": "餐饮服务;快餐厅;快餐厅",
+    "typecode": "050300",
+    "address": "红荔西路中心书城南区L101和L102号铺位",
+    "location": "114.060004,22.545713",
+    "tel": "4009200205",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HUXNI0ZD/comment/235158cd61e9a14109d84e9b4f6b2aac_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HUXNI0ZD/comment/6f5e629eb6b71318d3eb56ecfe7226fb_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HUXNI0ZD/comment/58ec165f38ba67a1edf7188a78c1794b_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.060004,
+    "lat": 22.545713,
+    "rating": 4.0,
+    "price_level": 1,
+    "popularity": 50,
+    "surrounding_population": 5000,
+    "competitors": 0,
+    "transport": 0.5
+  },
+  {
+    "id": "B0H1NN8DYC",
+    "name": "农耕记·湖南土菜(中心城深圳书城店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "福田一路深圳中心书城南区商业街首层(麦当劳附近)",
+    "location": "114.059370,22.545618",
+    "tel": "0755-82724741;18126467478",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/dbf37c33292451e1f17df054d0c92c06"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0H1NN8DYC/comment/22d2996e1502707f11399b284cbf9e94_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0H1NN8DYC/comment/e3f562d862d655f3cf7937e1b88dd8b0_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.05937,
+    "lat": 22.545618,
+    "rating": 4.2,
+    "price_level": 2,
+    "popularity": 60,
+    "surrounding_population": 8000,
+    "competitors": 1,
+    "transport": 0.6
+  },
+  {
+    "id": "B0H1KU2HP9",
+    "name": "蔡澜点心(深圳福田中心书城店)",
+    "type": "餐饮服务;餐饮相关场所;餐饮相关",
+    "typecode": "050000",
+    "address": "福中一路深圳书城中心城南区首层",
+    "location": "114.059386,22.546532",
+    "tel": "0755-23943215",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0H1KU2HP9/comment/99e921ab91a0f8d7338334ef9d3c8649_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/fe620f4b93ba483dcd4b12964cf5148e"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/e7c4814b50dbe176b9b1115835c8105e"
+      }
+    ],
+    "lng": 114.059386,
+    "lat": 22.546532,
+    "rating": 4.5,
+    "price_level": 2,
+    "popularity": 70,
+    "surrounding_population": 11000,
+    "competitors": 2,
+    "transport": 0.7
+  },
+  {
+    "id": "B0FFLI0WN9",
+    "name": "老碗会•陕西手工面食大师(中心书城店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "莲花街道福中社区福中一路深圳书城中心城N208",
+    "location": "114.059817,22.546909",
+    "tel": "0755-23943283",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFLI0WN9/comment/670b92ccb59dfeb1d84da3562145d225_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/0dfec208f862e8ea69abacdc5eca4ecf"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFLI0WN9/comment/19B3FE67_DDAE_4E5F_98B2_D1695C18CAE0_L0_001_781_635__1660730154827_53301581.jpg"
+      }
+    ],
+    "lng": 114.059817,
+    "lat": 22.546909,
+    "rating": 4.7,
+    "price_level": 3,
+    "popularity": 80,
+    "surrounding_population": 14000,
+    "competitors": 3,
+    "transport": 0.8
+  },
+  {
+    "id": "B02F37UAK5",
+    "name": "肯德基(中心书城店)",
+    "type": "餐饮服务;快餐厅;肯德基",
+    "typecode": "050301",
+    "address": "红荔路深圳中心书城首层(少年宫地铁站D口步行120米)",
+    "location": "114.059956,22.547193",
+    "tel": "0755-23992116",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/62e8c0ce15bcc103e31e666dae763967"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/d0a87f377c8ddf776cb3cc18d9aed25d"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/423771f81c6ab874ef5f34985404c37c"
+      }
+    ],
+    "lng": 114.059956,
+    "lat": 22.547193,
+    "rating": 4.9,
+    "price_level": 3,
+    "popularity": 90,
+    "surrounding_population": 17000,
+    "competitors": 4,
+    "transport": 0.9
+  },
+  {
+    "id": "B0KBLR67UX",
+    "name": "京炙坊(江苏大厦店)",
+    "type": "餐饮服务;餐饮相关场所;餐饮相关",
+    "typecode": "050000",
+    "address": "益田路6013号江苏大厦五楼",
+    "location": "114.055118,22.546151",
+    "tel": "0755-83068088",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/cac100c0d0e9fc96f1b4d371bbc69960"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0KBLR67UX/comment/0BF64C8A_7FFF_49D2_8FB9_DE45D4370120_L0_001_1500_2000_1728790427561_15903125.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0KBLR67UX/comment/11C54B4E_9C7A_452D_8D95_F1267DCD9149_L0_001_1126_2000_1735443617187_00207123.jpg"
+      }
+    ],
+    "lng": 114.055118,
+    "lat": 22.546151,
+    "rating": 3.8,
+    "price_level": 4,
+    "popularity": 100,
+    "surrounding_population": 20000,
+    "competitors": 5,
+    "transport": 0.5
+  },
+  {
+    "id": "B0KKSSFEBS",
+    "name": "观海(福田基金店)",
+    "type": "餐饮服务;餐饮相关场所;餐饮相关",
+    "typecode": "050000",
+    "address": "莲花街道福新社区益田路5999号基金大厦裙楼3层4层整层",
+    "location": "114.055691,22.541224",
+    "tel": "0755-83283199;0755-83283699",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/ad9f6b48d533345f3c0900023c95d786"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/7d96c889c0b18d5c4240c46059855330"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/6901d31b62b7427af54a3d613cd59179"
+      }
+    ],
+    "lng": 114.055691,
+    "lat": 22.541224,
+    "rating": 4.0,
+    "price_level": 1,
+    "popularity": 110,
+    "surrounding_population": 23000,
+    "competitors": 6,
+    "transport": 0.6
+  },
+  {
+    "id": "B0HACYUEZN",
+    "name": "原石牛扒LAVA STONE",
+    "type": "餐饮服务;外国餐厅;西餐厅(综合风味)",
+    "typecode": "050201",
+    "address": "莲花街道福中社区福中一路深圳书城中心城2层N229-2号铺",
+    "location": "114.059114,22.548131",
+    "tel": "0755-26785518",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HACYUEZN/comment/0528ae3044055f0ed2475fc2700f32e4_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/87803a431e78baf1ef14da76b723d805"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/9170374e79c831f30e728cf16c9b49ad"
+      }
+    ],
+    "lng": 114.059114,
+    "lat": 22.548131,
+    "rating": 4.2,
+    "price_level": 2,
+    "popularity": 120,
+    "surrounding_population": 26000,
+    "competitors": 7,
+    "transport": 0.7
+  },
+  {
+    "id": "B0FFHD9X94",
+    "name": "尊宝比萨(市民中心店)",
+    "type": "餐饮服务;快餐厅;快餐厅",
+    "typecode": "050300",
+    "address": "莲花街道福中三路市民中心地铁站负一层物业区A-8商铺A26",
+    "location": "114.060897,22.541560",
+    "tel": "18124198963",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/274262a989406c7aba369ff5d1f170f6"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/795ef90dc9d858ee261ee7da57b7eced"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/14c3d221b07f235b5c47ad757f3af8be"
+      }
+    ],
+    "lng": 114.060897,
+    "lat": 22.54156,
+    "rating": 4.5,
+    "price_level": 2,
+    "popularity": 130,
+    "surrounding_population": 29000,
+    "competitors": 8,
+    "transport": 0.8
+  },
+  {
+    "id": "B0HA55LLS3",
+    "name": "顺德公猪肚鸡(中心书城店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "福中一路深圳书城中心城二层N207号铺",
+    "location": "114.060036,22.547081",
+    "tel": [],
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HA55LLS3/comment/891BD211_73DD_476B_B188_6E0203146AEF_L0_001_1500_200_1747672654701_31441958.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HA55LLS3/comment/dba3954d22b832c84d1dc1e283ad19f3_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HA55LLS3/comment/ECB6A0CA_517B_4FAE_9101_23EF3F796307_L0_001_1500_200_1747672654433_78670139.jpg"
+      }
+    ],
+    "lng": 114.060036,
+    "lat": 22.547081,
+    "rating": 4.7,
+    "price_level": 3,
+    "popularity": 140,
+    "surrounding_population": 32000,
+    "competitors": 9,
+    "transport": 0.9
+  },
+  {
+    "id": "B0FFLEAOT9",
+    "name": "观璟高空日本料理(福田市民中心灯光秀店)",
+    "type": "餐饮服务;外国餐厅;日本料理",
+    "typecode": "050202",
+    "address": "金田路安联大厦B座36楼B01-C",
+    "location": "114.063681,22.542271",
+    "tel": "18038095098",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFLEAOT9/comment/4c7d33e9edb31290e5c49c409569aa01_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFLEAOT9/comment/content_media_external_images_media_1000338206_ss__1742018771163_15943096.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFLEAOT9/comment/19de2b08268300c9fb0e53bff748e5fe_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.063681,
+    "lat": 22.542271,
+    "rating": 4.9,
+    "price_level": 3,
+    "popularity": 150,
+    "surrounding_population": 35000,
+    "competitors": 10,
+    "transport": 0.5
+  },
+  {
+    "id": "B0FFK9L0IC",
+    "name": "湘舍壹号(免税商务大厦店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "福华一路6号免税商务大厦F1层103-202",
+    "location": "114.054840,22.537247",
+    "tel": "0755-88607225;19924930198",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFK9L0IC/comment/content_media_external_images_media_1000005533_ss__1742908364884_60366817.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFK9L0IC/comment/1707560D_A53C_447E_91E8_A23073478733_L0_001_1290_1534_1739798409183_73168831.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFK9L0IC/comment/902C80A3_550A_4EE9_BB82_39021907F892_L0_001_IMG_8127_jpg_1727150221937_4b79bd08.jpg"
+      }
+    ],
+    "lng": 114.05484,
+    "lat": 22.537247,
+    "rating": 3.8,
+    "price_level": 4,
+    "popularity": 160,
+    "surrounding_population": 38000,
+    "competitors": 11,
+    "transport": 0.6
+  },
+  {
+    "id": "B02F37UAJX",
+    "name": "必胜客(深圳中心书城店)",
+    "type": "餐饮服务;快餐厅;必胜客",
+    "typecode": "050303",
+    "address": "红荔路深圳中心书城1层(少年宫地铁站E口步行160米)",
+    "location": "114.059130,22.547556",
+    "tel": "0755-23992167;4009701890",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/c2c6a44f64ec73b74decd82d4a9ae56e"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F37UAJX/comment/IMG_20250321_114252_tem_1742528611288_76207753.jpg"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/032df6ead3dd33a54d8f6e9a907428d9"
+      }
+    ],
+    "lng": 114.05913,
+    "lat": 22.547556,
+    "rating": 4.0,
+    "price_level": 1,
+    "popularity": 170,
+    "surrounding_population": 41000,
+    "competitors": 12,
+    "transport": 0.7
+  },
+  {
+    "id": "B0FFHJ1CJH",
+    "name": "胡桃里音乐酒馆(领展中心城店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "福田街道福安社区福华一路3号领展中心城L1层RL1090A号铺面",
+    "location": "114.059591,22.536387",
+    "tel": "0755-82779219",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/a807368059537ac4d9d0179a68f8bf1d"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/566fec66e22b578f867ed8dedbcd4fe7"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFHJ1CJH/comment/81785c1d9a390d174835f56bccc2251c_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.059591,
+    "lat": 22.536387,
+    "rating": 4.2,
+    "price_level": 2,
+    "popularity": 180,
+    "surrounding_population": 44000,
+    "competitors": 13,
+    "transport": 0.8
+  },
+  {
+    "id": "B02F37UPVD",
+    "name": "北海渔村(新华保险大厦店)",
+    "type": "餐饮服务;中餐厅;海鲜酒楼",
+    "typecode": "050119",
+    "address": "民田路171号新华保险大厦2层",
+    "location": "114.052688,22.537931",
+    "tel": "0755-33331818;0755-88263666",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/a029149b05aad04e6e227cab4ae515f9"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/866d0277bf11fb61a18126b42f115985"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/b9378384dda5b4664e3d14f5a338207c"
+      }
+    ],
+    "lng": 114.052688,
+    "lat": 22.537931,
+    "rating": 4.5,
+    "price_level": 2,
+    "popularity": 190,
+    "surrounding_population": 47000,
+    "competitors": 14,
+    "transport": 0.9
+  },
+  {
+    "id": "B0KDARLAKB",
+    "name": "吴莊(领展中心城店)",
+    "type": "餐饮服务;餐饮相关场所;餐饮相关",
+    "typecode": "050000",
+    "address": "福华一路3号领展购物广场RM层062号",
+    "location": "114.059838,22.536440",
+    "tel": "0755-23883829",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0KDARLAKB/comment/content_media_external_images_media_1000005740_ss__1744122530755_62404515.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0KDARLAKB/comment/AAD9EA69_A23A_43AD_AB2D_91E32D7C8780_L0_001_2000_1500_1731401043390_14642586.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0KDARLAKB/comment/content_media_external_images_media_1000000687_ss__1725887138376_87194322.jpg"
+      }
+    ],
+    "lng": 114.059838,
+    "lat": 22.53644,
+    "rating": 4.7,
+    "price_level": 3,
+    "popularity": 50,
+    "surrounding_population": 5000,
+    "competitors": 0,
+    "transport": 0.5
+  },
+  {
+    "id": "B02F37UALO",
+    "name": "麦当劳(深圳麦当劳兴融二路华融大厦分店)",
+    "type": "餐饮服务;快餐厅;麦当劳",
+    "typecode": "050302",
+    "address": "福安社区民田路178号华融大厦101、102、103号商铺",
+    "location": "114.053558,22.537898",
+    "tel": "0755-23914257",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/7312818c670d7806deb485b555cb1002"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/ef320d1a232f538d48b3be835eaedb04"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/1d8b44861cafb1106e75c02727ae31bd"
+      }
+    ],
+    "lng": 114.053558,
+    "lat": 22.537898,
+    "rating": 4.9,
+    "price_level": 3,
+    "popularity": 60,
+    "surrounding_population": 8000,
+    "competitors": 1,
+    "transport": 0.6
+  },
+  {
+    "id": "B0H2FXMGE3",
+    "name": "外婆家(领展中心城店)",
+    "type": "餐饮服务;中餐厅;江苏菜",
+    "typecode": "050105",
+    "address": "福华一路3号领展中心城L层",
+    "location": "114.059336,22.536194",
+    "tel": "0755-23915520",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/query_pic?id=st59fb6d0a-48a0-477f-b3eb-f95cdffc5190&user=search&operate=original"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0H2FXMGE3/comment/5d22d91e7b80771840ca51fe4497a818_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0H2FXMGE3/comment/0cb8c910515e290dca838d543a88d10f_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.059336,
+    "lat": 22.536194,
+    "rating": 3.8,
+    "price_level": 4,
+    "popularity": 70,
+    "surrounding_population": 11000,
+    "competitors": 2,
+    "transport": 0.7
+  },
+  {
+    "id": "B02F38JBCI",
+    "name": "香乐园中餐厅(深圳福田香格里拉店)",
+    "type": "餐饮服务;餐饮相关场所;餐饮相关",
+    "typecode": "050000",
+    "address": "益田路4088号福田香格里拉二层",
+    "location": "114.058082,22.536540",
+    "tel": "0755-21513835;0755-21513838;15816885740",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/2e1b1759e7d12b3ed723b3c42d05d2f9"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/357cc527c748604e813ffa69f227bd5e"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/2140293f7f5c217c959f0d5aa8524557"
+      }
+    ],
+    "lng": 114.058082,
+    "lat": 22.53654,
+    "rating": 4.0,
+    "price_level": 1,
+    "popularity": 80,
+    "surrounding_population": 14000,
+    "competitors": 3,
+    "transport": 0.8
+  },
+  {
+    "id": "B0KDR4NITU",
+    "name": "五稻厨房(福华店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "福华一路6号免税商务大厦F2层(福田地铁站8号口旁)",
+    "location": "114.054997,22.537122",
+    "tel": "0755-83228548;19129358983",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0KDR4NITU/comment/2117afe40bdeda2f2944b519e848a0b8_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0KDR4NITU/comment/7b7cac393e95f75e4ddc32a027d2c7bf_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0KDR4NITU/comment/0654a4992addd29013ebf6dbb131da18_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.054997,
+    "lat": 22.537122,
+    "rating": 4.2,
+    "price_level": 2,
+    "popularity": 90,
+    "surrounding_population": 17000,
+    "competitors": 4,
+    "transport": 0.9
+  },
+  {
+    "id": "B02F37VSTC",
+    "name": "大渔铁板烧(领展中心城店)",
+    "type": "餐饮服务;外国餐厅;日本料理",
+    "typecode": "050202",
+    "address": "福华一路3号怡景中心城L层FL1002-3",
+    "location": "114.059181,22.536014",
+    "tel": "0755-82801802;0755-82801803",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/a9bf5caa281ba8b0252b75a2edd37825"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F37VSTC/comment/content_media_external_file_100001689_1745332515694_13412262.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F37VSTC/comment/84acbb04d3a5328eef45e7ab2e4213f9_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.059181,
+    "lat": 22.536014,
+    "rating": 4.5,
+    "price_level": 2,
+    "popularity": 100,
+    "surrounding_population": 20000,
+    "competitors": 5,
+    "transport": 0.5
+  },
+  {
+    "id": "B0FFGQHFID",
+    "name": "八合里牛肉火锅(深圳购物公园店)",
+    "type": "餐饮服务;中餐厅;火锅店",
+    "typecode": "050117",
+    "address": "福田街道民田路138号购物公园北园2层",
+    "location": "114.054405,22.536505",
+    "tel": "0755-88605746",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/d3d667a29e535c27f51d4778292727fb"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFGQHFID/comment/cb57fce418617b711cafcf11a500aa9c_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFGQHFID/comment/content_media_external_file_46022_ss__1750574428221_96830023.jpg"
+      }
+    ],
+    "lng": 114.054405,
+    "lat": 22.536505,
+    "rating": 4.7,
+    "price_level": 3,
+    "popularity": 110,
+    "surrounding_population": 23000,
+    "competitors": 6,
+    "transport": 0.6
+  },
+  {
+    "id": "B0FFL7CW5F",
+    "name": "Ensue",
+    "type": "餐饮服务;外国餐厅;外国餐厅",
+    "typecode": "050200",
+    "address": "益田路4088号(福田香格里拉大酒店40楼)",
+    "location": "114.057079,22.536362",
+    "tel": "0755-86223133;18823437333",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://comment-oss-online.oss-cn-wulanchabu.aliyuncs.com/B0FFL7CW5F/comment/C72449E7_936A_42CD_A38F_A575448D153D_L0_001_IMG_5311.JPG"
+      },
+      {
+        "title": [],
+        "url": "https://comment-oss-online.oss-cn-wulanchabu.aliyuncs.com/B0FFL7CW5F/comment/DC49977A_80FD_45C9_A004_14C9930E6A53_L0_001_IMG_5308.JPG"
+      },
+      {
+        "title": [],
+        "url": "https://comment-oss-online.oss-cn-wulanchabu.aliyuncs.com/B0FFL7CW5F/comment/BC8C8C33_0D31_41C1_9722_B79AE6E5F64C_L0_001_IMG_5306.JPG"
+      }
+    ],
+    "lng": 114.057079,
+    "lat": 22.536362,
+    "rating": 4.9,
+    "price_level": 3,
+    "popularity": 120,
+    "surrounding_population": 26000,
+    "competitors": 7,
+    "transport": 0.7
+  },
+  {
+    "id": "B0JUS7LTEA",
+    "name": "幸福小串·地摊小炉子(领展中心城店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "领展中心城L层西侧外连廊(同顺居旁)",
+    "location": "114.059166,22.536224",
+    "tel": "0755-83179084",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/aab263802b8df29738f2b6b5c09e8060"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0JUS7LTEA/comment/81a44e11e432819b1a2441e325c773e2_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0JUS7LTEA/comment/d1494b2d65a71cdfa8c804764a17d79f_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.059166,
+    "lat": 22.536224,
+    "rating": 3.8,
+    "price_level": 4,
+    "popularity": 130,
+    "surrounding_population": 29000,
+    "competitors": 8,
+    "transport": 0.8
+  },
+  {
+    "id": "B0IK0HO5DF",
+    "name": "同仁四季椰子鸡(领展中心城店)",
+    "type": "餐饮服务;外国餐厅;日本料理",
+    "typecode": "050202",
+    "address": "福田街道福安社区福华一路3号怡景中心城L1006",
+    "location": "114.060287,22.536180",
+    "tel": "0755-82577357;0755-83329584;0755-88377374",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://store.is.autonavi.com/showpic/f814228fd106281cf59558e984768bb0"
+      },
+      {
+        "title": [],
+        "url": "https://store.is.autonavi.com/showpic/c96412a3c00bade6d57ce8cf2e1cbdf7"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0IK0HO5DF/comment/1a303410da2b7083d68116263140e0d8_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.060287,
+    "lat": 22.53618,
+    "rating": 4.0,
+    "price_level": 1,
+    "popularity": 140,
+    "surrounding_population": 32000,
+    "competitors": 9,
+    "transport": 0.9
+  },
+  {
+    "id": "B02F37VX9P",
+    "name": "麦当劳(深圳领展中心城分店)",
+    "type": "餐饮服务;快餐厅;麦当劳",
+    "typecode": "050302",
+    "address": "福华一路中华国际交易广场西侧中心层G层",
+    "location": "114.059180,22.535717",
+    "tel": "0755-82801521",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F37VX9P/comment/21BBB9A5_90C2_4DCF_A3F4_5173CCBDC6FD_L0_001_1500_200_1752043774835_65696872.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F37VX9P/comment/IMG_20250609_190628_tem_1749467199918_46359388.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F37VX9P/comment/IMG_20250609_182400_tem_1749464647877_23223696.jpg"
+      }
+    ],
+    "lng": 114.05918,
+    "lat": 22.535717,
+    "rating": 4.2,
+    "price_level": 2,
+    "popularity": 150,
+    "surrounding_population": 35000,
+    "competitors": 10,
+    "transport": 0.5
+  },
+  {
+    "id": "B0J1NHJIPK",
+    "name": "西塔老太太泥炉烤肉(领展中心城店)",
+    "type": "餐饮服务;中餐厅;特色/地方风味餐厅",
+    "typecode": "050118",
+    "address": "福华一路3号领展中心城M层",
+    "location": "114.059130,22.535756",
+    "tel": "0755-23618441",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0J1NHJIPK/comment/content_media_external_images_media_100008667_1744566856462_80990407.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0J1NHJIPK/comment/content_media_external_images_media_100008667_1744566856462_68762671.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0J1NHJIPK/comment/2a02712c8428649aad1f2bb6bb0d4e4b_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.05913,
+    "lat": 22.535756,
+    "rating": 4.5,
+    "price_level": 2,
+    "popularity": 160,
+    "surrounding_population": 38000,
+    "competitors": 11,
+    "transport": 0.6
+  },
+  {
+    "id": "B0H1KR46ZA",
+    "name": "雍雅合鲜(卓悦中心北区店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "岗厦社区深南大道2005号卓悦中心北区N105-N106号商铺",
+    "location": "114.064285,22.538608",
+    "tel": "0755-23890577;17765579628",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0H1KR46ZA/comment/a66e0138a16bb7048f518230319bd3d2_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0H1KR46ZA/comment/d0543283b3a56ef432a59ee6f7467d24_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0H1KR46ZA/comment/content_media_external_file_100006935_1755585192698_69598173.jpg"
+      }
+    ],
+    "lng": 114.064285,
+    "lat": 22.538608,
+    "rating": 4.7,
+    "price_level": 3,
+    "popularity": 170,
+    "surrounding_population": 41000,
+    "competitors": 12,
+    "transport": 0.7
+  },
+  {
+    "id": "B0FFKW4A7W",
+    "name": "火璽(福田店)",
+    "type": "餐饮服务;餐饮相关场所;餐饮相关",
+    "typecode": "050000",
+    "address": "福田街道福安社区深南大道4019号航天大厦A105-A110A119-A121",
+    "location": "114.051227,22.538408",
+    "tel": "0755-88999941",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/db7c46e184c1874dce3aa367f4f1b2c9"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/ec47ddbfba19657caf0a23166a5cf19d"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFKW4A7W/comment/8b54f5525e3e920662dcb69af2e1a9a9_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.051227,
+    "lat": 22.538408,
+    "rating": 4.9,
+    "price_level": 3,
+    "popularity": 180,
+    "surrounding_population": 44000,
+    "competitors": 13,
+    "transport": 0.8
+  },
+  {
+    "id": "B0J15HWFTG",
+    "name": "艾雷牛排馆LA.PRIME STEAKHOUSE",
+    "type": "餐饮服务;外国餐厅;牛扒店(扒房)",
+    "typecode": "050211",
+    "address": "One Avenue卓悦中心北区1层N113-N114",
+    "location": "114.064514,22.538423",
+    "tel": "0755-88608675",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0J15HWFTG/comment/7e5288d15a724fee41950a1e70135374_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0J15HWFTG/comment/a24f9d8c61929280b6766ce515c7ba60_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0J15HWFTG/comment/b3be39e64ce2eae29a4fc5320d54e60b_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.064514,
+    "lat": 22.538423,
+    "rating": 3.8,
+    "price_level": 4,
+    "popularity": 190,
+    "surrounding_population": 47000,
+    "competitors": 14,
+    "transport": 0.9
+  },
+  {
+    "id": "B0KAYZZNZ3",
+    "name": "冯校长老火锅(深圳福田店)",
+    "type": "餐饮服务;中餐厅;火锅店",
+    "typecode": "050117",
+    "address": "民田路138号深圳购物公园",
+    "location": "114.054449,22.536345",
+    "tel": "18129980580",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0KAYZZNZ3/comment/50ed7e57bd526a0f2ec65f9953c623df_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0KAYZZNZ3/comment/445e522cd3a18ea908a178719471f2d6_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0KAYZZNZ3/comment/0e433f4375f658b1904feefbebbb1901_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.054449,
+    "lat": 22.536345,
+    "rating": 4.0,
+    "price_level": 1,
+    "popularity": 50,
+    "surrounding_population": 5000,
+    "competitors": 0,
+    "transport": 0.5
+  },
+  {
+    "id": "B0LATYZEX0",
+    "name": "鸟鹏烧鸟居酒屋(购物公园店)",
+    "type": "餐饮服务;外国餐厅;日本料理",
+    "typecode": "050202",
+    "address": "福田街道福安社区民田路138号城建购物公园北园216",
+    "location": "114.054366,22.536488",
+    "tel": "19166268996",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0LATYZEX0/comment/content_media_external_file_4212_1751590059918_54713427.jpg"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/603ccf0b55287b261ad45130906fe9df"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0LATYZEX0/comment/content_media_external_file_1000028346_ss__1752999279364_63444757.jpg"
+      }
+    ],
+    "lng": 114.054366,
+    "lat": 22.536488,
+    "rating": 4.2,
+    "price_level": 2,
+    "popularity": 60,
+    "surrounding_population": 8000,
+    "competitors": 1,
+    "transport": 0.6
+  },
+  {
+    "id": "B0HRCDLQ18",
+    "name": "蛙来哒(领展中心城店)",
+    "type": "餐饮服务;餐饮相关场所;餐饮相关",
+    "typecode": "050000",
+    "address": "福田街道福安社区福华一路3号领展购物广场B1层",
+    "location": "114.059136,22.535933",
+    "tel": "17881495046;19129516404",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/query_pic?id=st0e361e90-f834-44d2-ba23-cd96c9bcbc83&user=search&operate=original"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/205b3049cbc2be0eb92354bee047199e"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HRCDLQ18/comment/content_media_external_images_media_1952_1725934730772_92891425.jpg"
+      }
+    ],
+    "lng": 114.059136,
+    "lat": 22.535933,
+    "rating": 4.5,
+    "price_level": 2,
+    "popularity": 70,
+    "surrounding_population": 11000,
+    "competitors": 2,
+    "transport": 0.7
+  },
+  {
+    "id": "B0K1GH1AKM",
+    "name": "怂火锅厂",
+    "type": "公司企业;公司企业;公司企业",
+    "typecode": "170000",
+    "address": "福华一路3号领展中心城M层023铺",
+    "location": "114.059551,22.535990",
+    "tel": [],
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/query_pic?id=staa85dc05-2e03-4288-9126-7fd2efa8419d&user=search&operate=original"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/65ed987cf069723f3bb2fae6d52886a7"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0J0GDARWS/comment/8dd4b5fc8b91d5c705d2de8135bf09c6_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.059551,
+    "lat": 22.53599,
+    "rating": 4.7,
+    "price_level": 3,
+    "popularity": 80,
+    "surrounding_population": 14000,
+    "competitors": 3,
+    "transport": 0.8
+  },
+  {
+    "id": "B0IGZHYTKS",
+    "name": "哈里哈·黑牛私厨",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "民田路79号深圳购物公园F2层",
+    "location": "114.054419,22.536420",
+    "tel": "0755-83215408",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0IGZHYTKS/comment/c2c748b62b763d53da6dc5c92ac565a7_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0IGZHYTKS/comment/46ee3238037751b4c8da642157bb1b24_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0IGZHYTKS/comment/323f0297a0d33ba9ec03b5f77a629081_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.054419,
+    "lat": 22.53642,
+    "rating": 4.9,
+    "price_level": 3,
+    "popularity": 90,
+    "surrounding_population": 17000,
+    "competitors": 4,
+    "transport": 0.9
+  },
+  {
+    "id": "B0FFHCGIWC",
+    "name": "顺意·顺德家乡菜(中心商务大厦店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "福华一路88号中心商务大厦3层",
+    "location": "114.052837,22.537192",
+    "tel": "0755-23914877;0755-23914878",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/84c45841ec04477f6329903c07b9eacf"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/7bf3cecd2796e0c7ce466a546090432c"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/7db71ca9e6c2e4e2ff105d5dca1565cd"
+      }
+    ],
+    "lng": 114.052837,
+    "lat": 22.537192,
+    "rating": 3.8,
+    "price_level": 4,
+    "popularity": 100,
+    "surrounding_population": 20000,
+    "competitors": 5,
+    "transport": 0.5
+  },
+  {
+    "id": "B0H0RRDU20",
+    "name": "王品牛排(深圳卓悦中心店)",
+    "type": "餐饮服务;外国餐厅;西餐厅(综合风味)|餐饮服务;外国餐厅;牛扒店(扒房)",
+    "typecode": "050201|050211",
+    "address": "深南大道2005号卓悦中心北区L2层N210",
+    "location": "114.064593,22.538238",
+    "tel": "0755-61306699;0755-66611688;18898798152",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/4614c1bb0c9741400ab84bafe5f9bf49"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0H0RRDU20/comment/5b43e82826a184b97c36cec1c22bac4a_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/e9c155241489465131477aa619c6f1df"
+      }
+    ],
+    "lng": 114.064593,
+    "lat": 22.538238,
+    "rating": 4.0,
+    "price_level": 1,
+    "popularity": 110,
+    "surrounding_population": 23000,
+    "competitors": 6,
+    "transport": 0.6
+  },
+  {
+    "id": "B0FFKSTNXH",
+    "name": "海底捞火锅(大中华店)",
+    "type": "餐饮服务;中餐厅;火锅店",
+    "typecode": "050117",
+    "address": "福田街道福安社区福华一路1号深圳大中华国际交易广场L4-11",
+    "location": "114.061454,22.535677",
+    "tel": "0755-28115266;0755-28115366",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/90284d28c68fced0fb6f7fdc84640040"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFKSTNXH/comment/9682707c532120502f2d6ee171e02200_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/b27b74e5889ddd552dd6a96046dea8e6"
+      }
+    ],
+    "lng": 114.061454,
+    "lat": 22.535677,
+    "rating": 4.2,
+    "price_level": 2,
+    "popularity": 120,
+    "surrounding_population": 26000,
+    "competitors": 7,
+    "transport": 0.7
+  },
+  {
+    "id": "B0J2ZZI7W2",
+    "name": "码头见|潮汕菜(领展中心城店)",
+    "type": "餐饮服务;中餐厅;广东菜(粤菜)",
+    "typecode": "050103",
+    "address": "福华一路领展中心城G层008A铺",
+    "location": "114.060136,22.535913",
+    "tel": "17322368920",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0J2ZZI7W2/comment/960076f887e5da881a7430c1ca7d9cc9_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0J2ZZI7W2/comment/8359b7df0787a58902d53cec8dd1eef7_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0J2ZZI7W2/comment/a1472569433a3a41011e1146003a56cd_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.060136,
+    "lat": 22.535913,
+    "rating": 4.5,
+    "price_level": 2,
+    "popularity": 130,
+    "surrounding_population": 29000,
+    "competitors": 8,
+    "transport": 0.8
+  },
+  {
+    "id": "B0G3K1MX1F",
+    "name": "鸟剑居酒屋(购物公园店)",
+    "type": "餐饮服务;外国餐厅;日本料理",
+    "typecode": "050202",
+    "address": "福田街道民田路138号城建购物公园北园107",
+    "location": "114.053750,22.536471",
+    "tel": "13760730299",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0G3K1MX1F/comment/2ad33beeada637267933205e3bba30f6_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0G3K1MX1F/comment/c8233b13d0fb4f7c41a77b8786056372_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0G3K1MX1F/comment/content_media_external_file_100000141_1750148883767_51046174.jpg"
+      }
+    ],
+    "lng": 114.05375,
+    "lat": 22.536471,
+    "rating": 4.7,
+    "price_level": 3,
+    "popularity": 140,
+    "surrounding_population": 32000,
+    "competitors": 9,
+    "transport": 0.9
+  },
+  {
+    "id": "B0HDTML38U",
+    "name": "和唐潮膳(航天大厦A座店)",
+    "type": "餐饮服务;中餐厅;潮州菜",
+    "typecode": "050123",
+    "address": "深南大道4019号航天大厦A座二楼",
+    "location": "114.051388,22.538356",
+    "tel": "0755-83223909",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HDTML38U/comment/364fa94765ad16e6de6a9e9ca45f3de8_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/d0800fbcfa9d43e9c54587e843ae25ca"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/f56d7c4781dc983d51e0306b1189b582"
+      }
+    ],
+    "lng": 114.051388,
+    "lat": 22.538356,
+    "rating": 4.9,
+    "price_level": 3,
+    "popularity": 150,
+    "surrounding_population": 35000,
+    "competitors": 10,
+    "transport": 0.5
+  },
+  {
+    "id": "B0HGKZIIT5",
+    "name": "利宝阁(嘉里建设广场店)",
+    "type": "餐饮服务;中餐厅;广东菜(粤菜)",
+    "typecode": "050103",
+    "address": "中心四路1-1号嘉里建设广场第三座裙楼第2层01室",
+    "location": "114.056909,22.535242",
+    "tel": "0755-83831666",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://img.alicdn.com/imgextra/i1/3695320962/O1CN01ORorow1Iydii5GGKM_!!3695320962-0-kbcontentapng.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HGKZIIT5/comment/ee990dd2d24b1da684a7e544ef6a4759_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HGKZIIT5/comment/ad474cf38a73a9ee472c7ee4fe858b6c_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.056909,
+    "lat": 22.535242,
+    "rating": 3.8,
+    "price_level": 4,
+    "popularity": 160,
+    "surrounding_population": 38000,
+    "competitors": 11,
+    "transport": 0.6
+  },
+  {
+    "id": "B0KAS7N3YK",
+    "name": "渔舶汇蒸汽活海鲜·榴莲自助(领展中心城店)",
+    "type": "餐饮服务;中餐厅;海鲜酒楼",
+    "typecode": "050119",
+    "address": "福华一路3号领展中心城B1层",
+    "location": "114.059866,22.535646",
+    "tel": "0755-88285186",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0KAS7N3YK/comment/0d26bc5bb0caf591cd1497d255b237d7_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0KAS7N3YK/comment/9ee0444cad0cb219c433df69d9401b69_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0KAS7N3YK/comment/1e60846841def0c5ea63c6e7bc0f7393_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.059866,
+    "lat": 22.535646,
+    "rating": 4.0,
+    "price_level": 1,
+    "popularity": 170,
+    "surrounding_population": 41000,
+    "competitors": 12,
+    "transport": 0.7
+  },
+  {
+    "id": "B0FFL9M55V",
+    "name": "农耕记·湖南土菜(领展中心城店)",
+    "type": "餐饮服务;中餐厅;湖南菜(湘菜)",
+    "typecode": "050108",
+    "address": "福华一路3号领展中心城1层东走廊美食街",
+    "location": "114.060548,22.535711",
+    "tel": "0755-23942440",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFL9M55V/comment/content_media_external_images_media_100004801_1732342763511_43424595.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://store.is.autonavi.com/showpic/e2c74520458e1ef093d1a8f4a9287e20"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFL9M55V/comment/content_media_external_file_100000025_1756093556106_55357393.jpg"
+      }
+    ],
+    "lng": 114.060548,
+    "lat": 22.535711,
+    "rating": 4.2,
+    "price_level": 2,
+    "popularity": 180,
+    "surrounding_population": 44000,
+    "competitors": 13,
+    "transport": 0.8
+  },
+  {
+    "id": "B02F37WNQ2",
+    "name": "胜记酒家(航天店)",
+    "type": "餐饮服务;中餐厅;广东菜(粤菜)",
+    "typecode": "050103",
+    "address": "深南大道4019号航天大厦B座2楼",
+    "location": "114.050899,22.538354",
+    "tel": "0755-88266255;0755-88266277",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": "产品图",
+        "url": "http://store.is.autonavi.com/showpic/bef78f2e1565d5299469290bb03dd991"
+      },
+      {
+        "title": "产品图",
+        "url": "http://store.is.autonavi.com/showpic/7c665558f066d29246485b280eb62382"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/17c61a27f14f0a0769f2ebfe6a4c042b"
+      }
+    ],
+    "lng": 114.050899,
+    "lat": 22.538354,
+    "rating": 4.5,
+    "price_level": 2,
+    "popularity": 190,
+    "surrounding_population": 47000,
+    "competitors": 14,
+    "transport": 0.9
+  },
+  {
+    "id": "B0IKYUE7L4",
+    "name": "费大厨辣椒炒肉(领展中心城店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "领展中心城G层东广场(会展中心地铁站出入口旁)",
+    "location": "114.060299,22.535348",
+    "tel": "0755-23608651",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/7d6e2626a8c4aa9dd8781b58544daf71"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0IKYUE7L4/comment/9cd591beed977791c94c2e8577bc388f_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0IKYUE7L4/comment/1106c9608aebb29831bef6afb62e4478_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.060299,
+    "lat": 22.535348,
+    "rating": 4.7,
+    "price_level": 3,
+    "popularity": 50,
+    "surrounding_population": 5000,
+    "competitors": 0,
+    "transport": 0.5
+  },
+  {
+    "id": "B02F38SXZK",
+    "name": "岩盐日本料理(嘉里店)",
+    "type": "餐饮服务;外国餐厅;日本料理",
+    "typecode": "050202",
+    "address": "中心三路嘉里建设广场3座1层103A室",
+    "location": "114.057414,22.535412",
+    "tel": "0755-23894848",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F38SXZK/comment/B946FA3A_3795_4360_9D71_9249003C5600_L0_001_2016_113_1751174029444_33078432.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F38SXZK/comment/4b7544af0f6b1a943f3ba0f05a8324a5_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F38SXZK/comment/5BC3083C_9541_4D5E_99AD_481FD801742E_L0_001_2016_113_1751174029444_54231147.jpg"
+      }
+    ],
+    "lng": 114.057414,
+    "lat": 22.535412,
+    "rating": 4.9,
+    "price_level": 3,
+    "popularity": 60,
+    "surrounding_population": 8000,
+    "competitors": 1,
+    "transport": 0.6
+  },
+  {
+    "id": "B0FFKPHE3J",
+    "name": "老碗会西安面馆(瑞思CC店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "莲花街道福中一路1006号瑞思CC-times教育天地L1-09铺位(莲花村地铁A出口)",
+    "location": "114.065888,22.547115",
+    "tel": "0755-82573393",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/240b166218ba85ae952060241b1a559e"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFKPHE3J/comment/cc80bbd4baa6f6af8ccd261c086f7ed4_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/cfb6d81fd7131722e84fd932440456a0"
+      }
+    ],
+    "lng": 114.065888,
+    "lat": 22.547115,
+    "rating": 3.8,
+    "price_level": 4,
+    "popularity": 70,
+    "surrounding_population": 11000,
+    "competitors": 2,
+    "transport": 0.7
+  },
+  {
+    "id": "B0FFKGECPI",
+    "name": "黄晓猫剁椒大鱼头(福田店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "福华一路138号国际商会大厦A座113-115号",
+    "location": "114.051445,22.537335",
+    "tel": "0755-83213303",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFKGECPI/comment/content_media_external_images_media_100013763_1725776964234_14954285.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFKGECPI/comment/29ddce61226fdc0a51c84e318eed2ef5_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFKGECPI/comment/content_media_external_images_media_100011426_1744104487643_43911253.jpg"
+      }
+    ],
+    "lng": 114.051445,
+    "lat": 22.537335,
+    "rating": 4.0,
+    "price_level": 1,
+    "popularity": 80,
+    "surrounding_population": 14000,
+    "competitors": 3,
+    "transport": 0.8
+  },
+  {
+    "id": "B0HUPHNR9I",
+    "name": "何止料理(深圳国际商会大厦店)",
+    "type": "餐饮服务;外国餐厅;日本料理",
+    "typecode": "050202",
+    "address": "福华一路138号深圳国际商会大厦A座F1层",
+    "location": "114.051252,22.537433",
+    "tel": "15622889494",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/050b59b90ffac63b02a3be867af51c40"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HUPHNR9I/comment/4572D91A_1044_4CE2_B8E4_FB8705CD0FEB_L0_001_2000_1500_1741497107819_84269395.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HUPHNR9I/comment/content_media_external_file_100001687_1745332133389_33458779.jpg"
+      }
+    ],
+    "lng": 114.051252,
+    "lat": 22.537433,
+    "rating": 4.2,
+    "price_level": 2,
+    "popularity": 90,
+    "surrounding_population": 17000,
+    "competitors": 4,
+    "transport": 0.9
+  },
+  {
+    "id": "B0FFJ562X5",
+    "name": "大阪烧肉BAKA一代(深圳购物公园店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "福安社区民田路138号城建购物公园北门D区二楼204",
+    "location": "114.053330,22.536315",
+    "tel": "0755-82528707",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/3479e2e4463c006ffafe5d88c2d2857f"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFJ562X5/comment/content_media_external_file_1000138496_ss__1752810712861_95112963.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFJ562X5/comment/437c38d068a5746d9acba757660590a6_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.05333,
+    "lat": 22.536315,
+    "rating": 4.5,
+    "price_level": 2,
+    "popularity": 100,
+    "surrounding_population": 20000,
+    "competitors": 5,
+    "transport": 0.5
+  },
+  {
+    "id": "B02F37WNTR",
+    "name": "潮江春(大中华国际交易广场店)",
+    "type": "餐饮服务;中餐厅;潮州菜",
+    "typecode": "050123",
+    "address": "福华一路1号大中华深圳喜来登酒店5层",
+    "location": "114.061490,22.535643",
+    "tel": "0755-23998333;0755-23998388",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F37WNTR/comment/2cbf8c6542b62592cff504e2093322cf_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/eb5d9430f9fbbfe6e4bb23eab6a68f9b"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F37WNTR/comment/6e7657dc2397971a21d0389fac76eec0_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.06149,
+    "lat": 22.535643,
+    "rating": 4.7,
+    "price_level": 3,
+    "popularity": 110,
+    "surrounding_population": 23000,
+    "competitors": 6,
+    "transport": 0.6
+  },
+  {
+    "id": "B0FFF4W672",
+    "name": "西贝(领展中心城店)",
+    "type": "餐饮服务;中餐厅;西北菜",
+    "typecode": "050115",
+    "address": "福华一路3号中心城UG层RUGP06-007",
+    "location": "114.060232,22.535210",
+    "tel": "13238369856;13538225105;18718766136",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://store.is.autonavi.com/showpic/877f4bb3ce56649ac9260c8d0ddb631f"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/086c2d482678d8c239ecc4745c95968c"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/295c28e38a267491c87e3dd1404fc209"
+      }
+    ],
+    "lng": 114.060232,
+    "lat": 22.53521,
+    "rating": 4.9,
+    "price_level": 3,
+    "popularity": 120,
+    "surrounding_population": 26000,
+    "competitors": 7,
+    "transport": 0.7
+  },
+  {
+    "id": "B0G02572Y1",
+    "name": "黄记煌三汁焖锅(连城新天地店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "岗厦汇连城新天地8号口",
+    "location": "114.059408,22.535038",
+    "tel": "18126312623",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0G02572Y1/comment/7cf6d07af3cdf615dbe9fe2e1485aa69_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0G02572Y1/comment/6a001ce3044a93953d1d0d488c64653a_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0G02572Y1/comment/content_media_external_images_media_78500_1671007319606_d8f78fd3.jpg"
+      }
+    ],
+    "lng": 114.059408,
+    "lat": 22.535038,
+    "rating": 3.8,
+    "price_level": 4,
+    "popularity": 130,
+    "surrounding_population": 29000,
+    "competitors": 8,
+    "transport": 0.8
+  },
+  {
+    "id": "B0G0SU1KQW",
+    "name": "炎珀•EMBER炭火和牛(嘉里建设广场店)",
+    "type": "餐饮服务;外国餐厅;日本料理",
+    "typecode": "050202",
+    "address": "中心四路1-1号嘉里建设广场3座1楼03C铺",
+    "location": "114.057615,22.535095",
+    "tel": "0755-88261317;17727904731",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0G0SU1KQW/comment/ce9697a588dfa9909e5c7b453de57e14_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0G0SU1KQW/comment/4c86dcb6df6fc6a5fed815e7ee8d8799_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0G0SU1KQW/comment/EA74AF5F_CC24_4A38_A4F3_8249DACB0D14_L0_001_1500_2000_1736518670408_33932295.jpg"
+      }
+    ],
+    "lng": 114.057615,
+    "lat": 22.535095,
+    "rating": 4.0,
+    "price_level": 1,
+    "popularity": 140,
+    "surrounding_population": 32000,
+    "competitors": 9,
+    "transport": 0.9
+  },
+  {
+    "id": "B0LGDZ8YIW",
+    "name": "一围肥牛肉小火锅(连城新天地店)",
+    "type": "餐饮服务;中餐厅;火锅店",
+    "typecode": "050117",
+    "address": "福田街道福华一路连城新天地一期C区C10A(85度c对面)",
+    "location": "114.059160,22.535155",
+    "tel": "13237404744",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://store.is.autonavi.com/showpic/3276fa959aa17d9dc1c353c55f115954"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/679e8ec903e2d6f23911c6b4c4c38763?type=7"
+      },
+      {
+        "title": [],
+        "url": "https://store.is.autonavi.com/showpic/195796846013ab765410dfe5387078ad"
+      }
+    ],
+    "lng": 114.05916,
+    "lat": 22.535155,
+    "rating": 4.2,
+    "price_level": 2,
+    "popularity": 150,
+    "surrounding_population": 35000,
+    "competitors": 10,
+    "transport": 0.5
+  },
+  {
+    "id": "B0FFKW9KML",
+    "name": "铭门盛宴·艺术海鲜姿造自助餐(皇庭中心店)",
+    "type": "餐饮服务;中餐厅;海鲜酒楼",
+    "typecode": "050119",
+    "address": "福田街道岗厦社区福华路355号岗厦皇庭大厦403",
+    "location": "114.063908,22.535402",
+    "tel": "0755-23991999",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFKW9KML/comment/4cdee6b4e8010d792776ba850c1810d4_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFKW9KML/comment/b46a1cce0ad7efab64246ad5a3becb80_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFKW9KML/comment/c10c330d1d600a5a50d1834d3ac86c3f_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.063908,
+    "lat": 22.535402,
+    "rating": 4.5,
+    "price_level": 2,
+    "popularity": 160,
+    "surrounding_population": 38000,
+    "competitors": 11,
+    "transport": 0.6
+  },
+  {
+    "id": "B0HAT10JHU",
+    "name": "小炳胜(卓悦中心店)",
+    "type": "餐饮服务;中餐厅;广东菜(粤菜)",
+    "typecode": "050103",
+    "address": "深南大道2005号One Avenue卓悦中心(西区)L5层L502",
+    "location": "114.065165,22.536445",
+    "tel": "0755-26908839",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HAT10JHU/comment/d0abf40aabfc363259aa0fe027a0a01d_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/c29a2fe4668ec5bad2216cd0820fb382"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/89387386e00f93018507d903d91b1fe3?type=7"
+      }
+    ],
+    "lng": 114.065165,
+    "lat": 22.536445,
+    "rating": 4.7,
+    "price_level": 3,
+    "popularity": 170,
+    "surrounding_population": 41000,
+    "competitors": 12,
+    "transport": 0.7
+  },
+  {
+    "id": "B02F391N6L",
+    "name": "唐宫·粤菜海鲜(彩德店)",
+    "type": "餐饮服务;中餐厅;海鲜酒楼",
+    "typecode": "050119",
+    "address": "彩田北路3030号平安国际五楼",
+    "location": "114.068500,22.543685",
+    "tel": "0755-82389366",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": "皇岗",
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F391N6L/comment/eefcff7080be2f111a050eb461633736_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F391N6L/comment/9804dea56d091ec5c85cbfbebd12cac1_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F391N6L/comment/59731dabcd33868a0177752a57e5fafc_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.0685,
+    "lat": 22.543685,
+    "rating": 4.9,
+    "price_level": 3,
+    "popularity": 180,
+    "surrounding_population": 44000,
+    "competitors": 13,
+    "transport": 0.8
+  },
+  {
+    "id": "B0HRD5XVUQ",
+    "name": "巴奴毛肚火锅(深圳卓悦中心店)",
+    "type": "餐饮服务;中餐厅;火锅店",
+    "typecode": "050117",
+    "address": "福华路与岗厦一路交叉口西北角卓悦中心东区二楼L231号",
+    "location": "114.066264,22.536120",
+    "tel": "0755-88315877",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HRD5XVUQ/comment/49b73e770e160fad3676a9ecc61e9c38_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HRD5XVUQ/comment/content_media_external_images_media_100000028_1725883806693_48030456.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HRD5XVUQ/comment/961e504bd062e17024bbb86c39836a5d_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.066264,
+    "lat": 22.53612,
+    "rating": 3.8,
+    "price_level": 4,
+    "popularity": 190,
+    "surrounding_population": 47000,
+    "competitors": 14,
+    "transport": 0.9
+  },
+  {
+    "id": "B0HKDHV9RF",
+    "name": "小蜇屋日韩食堂·茶歇(福田一店)",
+    "type": "餐饮服务;餐饮相关场所;餐饮相关",
+    "typecode": "050000",
+    "address": "国际商会大厦B座0102室",
+    "location": "114.050546,22.537193",
+    "tel": "18924648002",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/b288e671ec37b063de723ad88a4976b7"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HKDHV9RF/comment/936e9df578fddb274733e44e50ab4b7b_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HKDHV9RF/comment/2964ca08a42426e51a1a81e89c9d8eca_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.050546,
+    "lat": 22.537193,
+    "rating": 4.0,
+    "price_level": 1,
+    "popularity": 50,
+    "surrounding_population": 5000,
+    "competitors": 0,
+    "transport": 0.5
+  },
+  {
+    "id": "B0FFIKL88B",
+    "name": "点都德(大中华店)",
+    "type": "餐饮服务;中餐厅;广东菜(粤菜)",
+    "typecode": "050103",
+    "address": "深南大道和彩田路交汇处大中华国际金融中心D座四楼L4-01号",
+    "location": "114.068738,22.539269",
+    "tel": "0755-83219215;4001382828",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": "皇岗",
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/1aae5e9ecb08857e685abf103e14caa1"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/query_pic?id=st619edafb-5a4c-4023-98ac-ad4285ba916f&user=search&operate=original"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/e6964d04de88470a00d9694a035b7fbb"
+      }
+    ],
+    "lng": 114.068738,
+    "lat": 22.539269,
+    "rating": 4.2,
+    "price_level": 2,
+    "popularity": 60,
+    "surrounding_population": 8000,
+    "competitors": 1,
+    "transport": 0.6
+  },
+  {
+    "id": "B0FFFY1SME",
+    "name": "shark鲨鱼餐吧(深圳购物公园店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "福华路转中心二路购物公园B区1层(近信息枢纽大厦)",
+    "location": "114.054474,22.535434",
+    "tel": "0755-82031999",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/0f5b3ff841f42dd39ec00af0062defb5"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/54731fea34600603fbecd8cb5658f675"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFFY1SME/comment/D878323F_B510_4B4E_A3B6_56013F8390E4_L0_001_1630_2000_1734974608161_14373366.jpg"
+      }
+    ],
+    "lng": 114.054474,
+    "lat": 22.535434,
+    "rating": 4.5,
+    "price_level": 2,
+    "popularity": 70,
+    "surrounding_population": 11000,
+    "competitors": 2,
+    "transport": 0.7
+  },
+  {
+    "id": "B0HAT104G9",
+    "name": "陶陶居(卓悦中心店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "福华三路One Avenue卓悦中心L2层L233-L234",
+    "location": "114.065991,22.535848",
+    "tel": "0755-82998870",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/1c4e587418a265397cd368c6596d0e25"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HAT104G9/comment/AA46A628_A74F_446E_A74D_51A5039F4F79_L0_001_2048_1536__1669637317399_a7259ba3.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HAT104G9/comment/b941ae1f6fd7de37d4be0c2cb7734fc7_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.065991,
+    "lat": 22.535848,
+    "rating": 4.7,
+    "price_level": 3,
+    "popularity": 80,
+    "surrounding_population": 14000,
+    "competitors": 3,
+    "transport": 0.8
+  },
+  {
+    "id": "B0HGMX1ICI",
+    "name": "费大厨辣椒炒肉(皇庭广场店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "福华三路118号皇庭广场L1西门口",
+    "location": "114.059322,22.533790",
+    "tel": "0755-23481534",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HGMX1ICI/comment/58f3ce1bc866739e953046d2c084d492_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HGMX1ICI/comment/55422d123dae5f4f985391384b0f19c9_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HGMX1ICI/comment/e3a3c8cbd433b7d2790ada17dcbd8f20_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.059322,
+    "lat": 22.53379,
+    "rating": 4.9,
+    "price_level": 3,
+    "popularity": 90,
+    "surrounding_population": 17000,
+    "competitors": 4,
+    "transport": 0.9
+  },
+  {
+    "id": "B0JRGH1BZE",
+    "name": "星龙吟日料放题(深圳福田店)",
+    "type": "餐饮服务;外国餐厅;日本料理",
+    "typecode": "050202",
+    "address": "福田街道岗厦社区福华三路88号财富大厦4层4A",
+    "location": "114.063850,22.533384",
+    "tel": "0755-83179910",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": "皇岗",
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/1c88b8f4661654a9e8c6f56b84ae2fc7"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/3daec1299198203797be986b9458afa0"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/4f669ae89c2dddb4caf30ce9229f8db2"
+      }
+    ],
+    "lng": 114.06385,
+    "lat": 22.533384,
+    "rating": 3.8,
+    "price_level": 4,
+    "popularity": 100,
+    "surrounding_population": 20000,
+    "competitors": 5,
+    "transport": 0.5
+  },
+  {
+    "id": "B0FFLLAWDG",
+    "name": "麦当劳(深圳One Avenue·卓悦中心店)",
+    "type": "餐饮服务;快餐厅;麦当劳",
+    "typecode": "050302",
+    "address": "福田街道岗厦社区福华路北面岗厦城L1层126号商铺",
+    "location": "114.066835,22.536665",
+    "tel": "0755-82721974;4008517517",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFLLAWDG/comment/74a0ff3dfdd774c28fded9f9cf43b0c7_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFLLAWDG/comment/2bd43c36c115a53bad6bde4f27fe992a_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFLLAWDG/comment/10b6756d8e094e0f7914907bca9696c6_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.066835,
+    "lat": 22.536665,
+    "rating": 4.0,
+    "price_level": 1,
+    "popularity": 110,
+    "surrounding_population": 23000,
+    "competitors": 6,
+    "transport": 0.6
+  },
+  {
+    "id": "B0LBZZMQDI",
+    "name": "脆鲜生-脆鲩鱼火锅-卓悦中心店",
+    "type": "餐饮服务;中餐厅;火锅店",
+    "typecode": "050117",
+    "address": "福华路348号卓悦中心西区B2层华为商店旁边手扶梯下到负二",
+    "location": "114.065786,22.536424",
+    "tel": "19924569678",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0J255KGD1/comment/04ef6232bfe19784391c183c5614146b_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/7142f2d07e701cffa56010e31e8d994c"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0J255KGD1/comment/89114674619df68becbffa87534c3385_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.065786,
+    "lat": 22.536424,
+    "rating": 4.2,
+    "price_level": 2,
+    "popularity": 120,
+    "surrounding_population": 26000,
+    "competitors": 7,
+    "transport": 0.7
+  },
+  {
+    "id": "B0GK9UQLJJ",
+    "name": "珮姐重庆火锅(福田旗舰店)",
+    "type": "餐饮服务;中餐厅;火锅店",
+    "typecode": "050117",
+    "address": "民田路138号购物公园北园C区一层151-152号",
+    "location": "114.053612,22.534884",
+    "tel": "0755-83451989",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://img.alicdn.com/imgextra/i1/3695320962/O1CN011IydiR9hdBb1ZK0_!!3695320962-0-kbcontentapng.jpg"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/ef908a89ee4ff2c0209bd83e2dc0ad6b"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0GK9UQLJJ/comment/6c65fd1c95982d44bf50ea0cc4c21e49_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.053612,
+    "lat": 22.534884,
+    "rating": 4.5,
+    "price_level": 2,
+    "popularity": 130,
+    "surrounding_population": 29000,
+    "competitors": 8,
+    "transport": 0.8
+  },
+  {
+    "id": "B0FFKTAZ75",
+    "name": "悦景酒家(华安保险总部大厦店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "福华一路117号华安保险总部大厦F3层",
+    "location": "114.051231,22.536514",
+    "tel": "0755-82338008",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/6cf3f0b8fc79bfab819ce838da941285"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFKTAZ75/comment/a09c7b7b75329f01ddfeebffaa691426_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFKTAZ75/comment/3392f2e502f24c4e395f67f52c79b8e5_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.051231,
+    "lat": 22.536514,
+    "rating": 4.7,
+    "price_level": 3,
+    "popularity": 140,
+    "surrounding_population": 32000,
+    "competitors": 9,
+    "transport": 0.9
+  },
+  {
+    "id": "B0FFL9RP1W",
+    "name": "费大厨辣椒炒肉(卓悦中心店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "福田街道福华路348号卓悦中心商场",
+    "location": "114.065527,22.536130",
+    "tel": "0755-23992351",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFL9RP1W/comment/0ec2ef44bdb43c92ba9c89295688c55f_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFL9RP1W/comment/8ACAEE29_F22B_4FD7_8C6C_23E8057E2E96_L0_001_1284_697_1731911387740_65461343.jpg"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/7256476cd5af0a6cb917c90adb49acbc"
+      }
+    ],
+    "lng": 114.065527,
+    "lat": 22.53613,
+    "rating": 4.9,
+    "price_level": 3,
+    "popularity": 150,
+    "surrounding_population": 35000,
+    "competitors": 10,
+    "transport": 0.5
+  },
+  {
+    "id": "B02F37VW7E",
+    "name": "肯德基(星河店)",
+    "type": "餐饮服务;快餐厅;肯德基",
+    "typecode": "050301",
+    "address": "福华路星河CoCoPark花园负一楼B1C-076A商铺",
+    "location": "114.054529,22.534049",
+    "tel": "0755-88312096",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/cf64ea8e22533b4bba864a3b10c322fb"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/5e7a78fbf85fe3383000778fbcbe083c"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/6ee15ca4c3b793d75f726e683de06ce3"
+      }
+    ],
+    "lng": 114.054529,
+    "lat": 22.534049,
+    "rating": 3.8,
+    "price_level": 4,
+    "popularity": 160,
+    "surrounding_population": 38000,
+    "competitors": 11,
+    "transport": 0.6
+  },
+  {
+    "id": "B0KRS7H9TF",
+    "name": "COMMUNE·X幻师(福田COCOPark店)",
+    "type": "体育休闲服务;娱乐场所;娱乐场所|餐饮服务;餐饮相关场所;餐饮相关",
+    "typecode": "080300|050000",
+    "address": "福田街道福华三路福田星河COCOpark商场一楼L1s-041号",
+    "location": "114.054540,22.533907",
+    "tel": "18018746541",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0KRS7H9TF/comment/content_media_external_file_554_1752579502492_98100806.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0KRS7H9TF/comment/%5B2025-01-09-17-36-09%5DC1F7E3CD-D0C6-47B3-9E74-100086A8115_1736415371187_77092311.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0KRS7H9TF/comment/DA275185_8603_49A8_9E2C_DAB9E5897899_L0_001_1280_1707_1730728043269_34592144.jpg"
+      }
+    ],
+    "lng": 114.05454,
+    "lat": 22.533907,
+    "rating": 4.0,
+    "price_level": 1,
+    "popularity": 170,
+    "surrounding_population": 41000,
+    "competitors": 12,
+    "transport": 0.7
+  },
+  {
+    "id": "B0H0LSHHAM",
+    "name": "the eating table(卓悦中心店)",
+    "type": "餐饮服务;外国餐厅;西餐厅(综合风味)",
+    "typecode": "050201",
+    "address": "福华一路348号深圳One Avenue·卓悦中心L1层",
+    "location": "114.065892,22.537764",
+    "tel": "0755-83228292",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/5dd53cf66276094d0ea607aaa37bd954"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0H0LSHHAM/comment/content_media_external_images_media_100065855_1742544044235_39848546.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0H0LSHHAM/comment/content_media_external_images_media_100065855_1742544044236_82520625.jpg"
+      }
+    ],
+    "lng": 114.065892,
+    "lat": 22.537764,
+    "rating": 4.2,
+    "price_level": 2,
+    "popularity": 180,
+    "surrounding_population": 44000,
+    "competitors": 13,
+    "transport": 0.8
+  },
+  {
+    "id": "B0FFL7Y4FS",
+    "name": "大無烧肉(深圳One Avenue·卓悦中心店)",
+    "type": "餐饮服务;外国餐厅;日本料理",
+    "typecode": "050202",
+    "address": "福华一路348号深圳卓悦中心L2层",
+    "location": "114.066447,22.536479",
+    "tel": "0755-83265286;19926512912",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFL7Y4FS/comment/A53EF0F3_0C4B_45B3_A892_87DF3188F719_L0_001_1280_1707_1742568055944_66389877.jpg"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/c05db4e305c115d1153f43b081e2264f?type=7"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/04b002695c0cd160074f445e10cf5fc3"
+      }
+    ],
+    "lng": 114.066447,
+    "lat": 22.536479,
+    "rating": 4.5,
+    "price_level": 2,
+    "popularity": 190,
+    "surrounding_population": 47000,
+    "competitors": 14,
+    "transport": 0.9
+  },
+  {
+    "id": "B0JUFSOBP8",
+    "name": "破店肥哈·东北烧烤(皇庭广场店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "福田街道福安社区福华二路118号皇庭国商购物广场G-19",
+    "location": "114.060658,22.533723",
+    "tel": "19926485179",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0JUFSOBP8/comment/36d824c17473e7abc96fb29dbd25cbf3_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0JUFSOBP8/comment/content_media_external_images_media_100007465_1735404871024_37497526.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0I2LAWJME/comment/bcad9cfd5587f1ef1b5b481aa7a70012_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.060658,
+    "lat": 22.533723,
+    "rating": 4.7,
+    "price_level": 3,
+    "popularity": 50,
+    "surrounding_population": 5000,
+    "competitors": 0,
+    "transport": 0.5
+  },
+  {
+    "id": "B0FFJHY6JZ",
+    "name": "海底捞火锅(深圳卓越店)",
+    "type": "餐饮服务;中餐厅;火锅店",
+    "typecode": "050117",
+    "address": "福华三路卓悦INTOWN购物中心4号楼L401、L402",
+    "location": "114.064496,22.532035",
+    "tel": "0755-23890492;0755-23890493",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": "皇岗",
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFJHY6JZ/comment/BDD08DED_F1B9_4BC6_9849_FE638B268D80_L0_001_1500_200_1753592003715_96018574.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFJHY6JZ/comment/d59c63eb8c216580d866d99ef19e5f1d_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFJHY6JZ/comment/30A684AA_A90E_4D37_A231_F4964FDD0B9C_L0_001_1284_941_1752305405727_31511569.jpg"
+      }
+    ],
+    "lng": 114.064496,
+    "lat": 22.532035,
+    "rating": 4.9,
+    "price_level": 3,
+    "popularity": 60,
+    "surrounding_population": 8000,
+    "competitors": 1,
+    "transport": 0.6
+  },
+  {
+    "id": "B0IRDKKM4Q",
+    "name": "寿司郎(卓悦中心店)",
+    "type": "餐饮服务;外国餐厅;日本料理",
+    "typecode": "050202",
+    "address": "福华一路348号卓悦中心西区B2层",
+    "location": "114.065806,22.535721",
+    "tel": "18129964552",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/0ab2a58c975ddd6d9772315438791af9"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0IRDKKM4Q/comment/f33f2f17a28d73b79d91b25646a11881_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0IRDKKM4Q/comment/4209b982b35d450a8f34ed9a79dcb6c6_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.065806,
+    "lat": 22.535721,
+    "rating": 3.8,
+    "price_level": 4,
+    "popularity": 70,
+    "surrounding_population": 11000,
+    "competitors": 2,
+    "transport": 0.7
+  },
+  {
+    "id": "B0HGMX08XL",
+    "name": "辣可可·小炒黄牛肉(皇庭广场店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "福华三路118号皇庭广场L1层",
+    "location": "114.060515,22.533546",
+    "tel": "0755-23888099",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HGMX08XL/comment/61a01a89879afe3adf9cb9f5c2892556_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HGMX08XL/comment/content_media_external_images_media_100067631_1743391702881_55404889.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HGMX08XL/comment/b1c8c8d7841fe2673c5b22720037c568_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.060515,
+    "lat": 22.533546,
+    "rating": 4.0,
+    "price_level": 1,
+    "popularity": 80,
+    "surrounding_population": 14000,
+    "competitors": 3,
+    "transport": 0.8
+  },
+  {
+    "id": "B0FFLII65G",
+    "name": "隐厨·中国菜馆(卓悦中心店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "福田街道岗厦社区深南大道南侧岗厦天元花园L3层L305-306",
+    "location": "114.065102,22.536454",
+    "tel": "18620301851",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFLII65G/comment/content_media_external_images_media_100007664_1732422849347_73741785.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFLII65G/comment/content_media_external_images_media_100009100_1733368356372_91175714.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFLII65G/comment/content_media_external_images_media_100009100_1733368356374_76655532.jpg"
+      }
+    ],
+    "lng": 114.065102,
+    "lat": 22.536454,
+    "rating": 4.2,
+    "price_level": 2,
+    "popularity": 90,
+    "surrounding_population": 17000,
+    "competitors": 4,
+    "transport": 0.9
+  },
+  {
+    "id": "B0IG5SISEI",
+    "name": "炳胜品味(卓悦中心店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "深南大道2005号One Avenue卓悦中心东区L2层L244",
+    "location": "114.066837,22.536445",
+    "tel": "0755-82738819",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/9599a2fb26da5659cdb75e680049177f"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/d8c33227421a6fe327d094199544b5b2"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/b2e833d77220fa818a91cecbbdc2e5af"
+      }
+    ],
+    "lng": 114.066837,
+    "lat": 22.536445,
+    "rating": 4.5,
+    "price_level": 2,
+    "popularity": 100,
+    "surrounding_population": 20000,
+    "competitors": 5,
+    "transport": 0.5
+  },
+  {
+    "id": "B0J1NHIOJ2",
+    "name": "野妹经典火锅(皇庭广场店)",
+    "type": "餐饮服务;中餐厅;火锅店",
+    "typecode": "050117",
+    "address": "福华路皇庭广场B1-1号电影院旁",
+    "location": "114.059577,22.533919",
+    "tel": "0755-23608617",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0J1NHIOJ2/headerImg/0289a5296d1cf3524c731bb907771a94_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0J1NHIOJ2/comment/b52cd22b5cd4bbb16a1605db46be21c1_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0J1NHIOJ2/comment/f7956d6e565c1aacca625b0b27521cb5_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.059577,
+    "lat": 22.533919,
+    "rating": 4.7,
+    "price_level": 3,
+    "popularity": 110,
+    "surrounding_population": 23000,
+    "competitors": 6,
+    "transport": 0.6
+  },
+  {
+    "id": "B0H1OLVFJN",
+    "name": "桂语溪·精致江浙菜(卓悦中心店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "福华路348号ONEAVENUE卓悦中心西区1号门2层",
+    "location": "114.065198,22.535242",
+    "tel": "18038161203",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0H1OLVFJN/comment/76d0a4c5ef19c3c9b47dfc830418ccce_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0H1OLVFJN/comment/869770e8fd61ac8c8e6b9163b4eb453d_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0H1OLVFJN/comment/2b3a4640a9463122abd1e51ee2aefa87_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.065198,
+    "lat": 22.535242,
+    "rating": 4.9,
+    "price_level": 3,
+    "popularity": 120,
+    "surrounding_population": 26000,
+    "competitors": 7,
+    "transport": 0.7
+  },
+  {
+    "id": "B0JGUCE9XA",
+    "name": "鸟剑居酒屋(景田店)",
+    "type": "餐饮服务;外国餐厅;日本料理",
+    "typecode": "050202",
+    "address": "莲花街道紫荆社区新闻路1号中电信息大厦105",
+    "location": "114.047866,22.541568",
+    "tel": "19076124355",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": "香蜜湖",
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0JGUCE9XA/comment/86e6a020e87dc57328e5a3798a8090d5_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/6c4480ad670eee63fa73af564f8e1cd5"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0JGUCE9XA/comment/74f7506da6980a5fd78f1edcc508736f_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.047866,
+    "lat": 22.541568,
+    "rating": 3.8,
+    "price_level": 4,
+    "popularity": 130,
+    "surrounding_population": 29000,
+    "competitors": 8,
+    "transport": 0.8
+  },
+  {
+    "id": "B02F37WC9K",
+    "name": "麦当劳(金田二餐厅)",
+    "type": "餐饮服务;快餐厅;麦当劳",
+    "typecode": "050302",
+    "address": "金田路3037号金中环国际商务大厦金中环商务大厦负一楼",
+    "location": "114.062784,22.534143",
+    "tel": "0755-82521287",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/c551496405a62601622d93bf97503fd6"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F37WC9K/comment/c59679b48770d4d069bbd0120b34f81c_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F37WC9K/comment/658e413cbf963ba4d13c1f20eb2ae0d1_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.062784,
+    "lat": 22.534143,
+    "rating": 4.0,
+    "price_level": 1,
+    "popularity": 140,
+    "surrounding_population": 32000,
+    "competitors": 9,
+    "transport": 0.9
+  },
+  {
+    "id": "B0JKVSO8AC",
+    "name": "蟹叁寳(福田店)",
+    "type": "餐饮服务;中餐厅;综合酒楼",
+    "typecode": "050101",
+    "address": "福田街道岗厦社区福华路350号岗厦皇庭中心102L1-2(距地铁一号线四号线会展中心站A1口步行250米)",
+    "location": "114.064477,22.535291",
+    "tel": "19065163439",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0JKVSO8AC/comment/546be36be309c6c9d107b99cff06a3e2_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0JKVSO8AC/comment/content_media_external_images_media_100010941_1743674018979_27167002.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0JKVSO8AC/comment/content_media_external_images_media_100010941_1743674019359_16022208.jpg"
+      }
+    ],
+    "lng": 114.064477,
+    "lat": 22.535291,
+    "rating": 4.2,
+    "price_level": 2,
+    "popularity": 150,
+    "surrounding_population": 35000,
+    "competitors": 10,
+    "transport": 0.5
+  },
+  {
+    "id": "B02F38JCUP",
+    "name": "gaga(COCOPARK店)",
+    "type": "餐饮服务;休闲餐饮场所;休闲餐饮场所|餐饮服务;中餐厅;中餐厅",
+    "typecode": "050400|050100",
+    "address": "福田街道民田路东福华三路北星河苏活购物公园负102BIS-042、043、045、046、047",
+    "location": "114.054255,22.533595",
+    "tel": "0755-83591880",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/query_pic?id=st00553da5-5f2c-469d-84ad-215392b36703&user=search&operate=original"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F38JCUP/comment/E648E1A7_883E_4E7B_B7A3_DCDF38082954_L0_001_1502_2000_1726631296567_77271318.jpg"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/c5e6e9c5b2815b7d017ff565b8688791"
+      }
+    ],
+    "lng": 114.054255,
+    "lat": 22.533595,
+    "rating": 4.5,
+    "price_level": 2,
+    "popularity": 160,
+    "surrounding_population": 38000,
+    "competitors": 11,
+    "transport": 0.6
+  },
+  {
+    "id": "B0FFL9M8PD",
+    "name": "Green Table(深圳One Avenue·卓悦中心店)",
+    "type": "餐饮服务;外国餐厅;西餐厅(综合风味)",
+    "typecode": "050201",
+    "address": "福华一路348号深圳One Avenue·卓悦中心L1层",
+    "location": "114.065787,22.538072",
+    "tel": "13760371765",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFL9M8PD/comment/E29B2158_5522_4192_A8F8_99669C3324CE_L0_001_1512_201_1750315873298_40078646.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFL9M8PD/comment/FFE76123_67E0_4444_9E5D_508F98E7EB9C_L0_001_2000_1500_1737350043516_60435485.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0LB2AMQO4/comment/content_media_external_images_media_100065246_1742350188964_91457817.jpg"
+      }
+    ],
+    "lng": 114.065787,
+    "lat": 22.538072,
+    "rating": 4.7,
+    "price_level": 3,
+    "popularity": 170,
+    "surrounding_population": 41000,
+    "competitors": 12,
+    "transport": 0.7
+  },
+  {
+    "id": "B0J09HUOQU",
+    "name": "潮悦牛肉火锅城(景田店)",
+    "type": "餐饮服务;中餐厅;火锅店",
+    "typecode": "050117",
+    "address": "红荔西路7002号第一世界广场裙楼A座106",
+    "location": "114.048483,22.548131",
+    "tel": "0755-26929188",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/92257829d83dad9296895d9cc00203cd"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0J09HUOQU/comment/content_media_external_images_media_100000069_1725887177172_15012128.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0J09HUOQU/comment/content_media_external_images_media_1000010958_ss__1742308449972_55821115.jpg"
+      }
+    ],
+    "lng": 114.048483,
+    "lat": 22.548131,
+    "rating": 4.9,
+    "price_level": 3,
+    "popularity": 180,
+    "surrounding_population": 44000,
+    "competitors": 13,
+    "transport": 0.8
+  },
+  {
+    "id": "B02F37UKQT",
+    "name": "金皇廷酒家",
+    "type": "餐饮服务;中餐厅;综合酒楼",
+    "typecode": "050101",
+    "address": "金田路3037号5楼",
+    "location": "114.062896,22.533874",
+    "tel": "0755-23993048;0755-23993688",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/a9083ed47f5484afc5f07e61b95e9238"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F37UKQT/comment/d2a087913a28358cb0a8d220446f30c3_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F37UKQT/comment/10cf729067192ca625bfa7d1f4029763_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.062896,
+    "lat": 22.533874,
+    "rating": 3.8,
+    "price_level": 4,
+    "popularity": 190,
+    "surrounding_population": 47000,
+    "competitors": 14,
+    "transport": 0.9
+  },
+  {
+    "id": "B0KDF54J9B",
+    "name": "潮汕大目牛肉火锅(岗厦店)",
+    "type": "餐饮服务;中餐厅;火锅店",
+    "typecode": "050117",
+    "address": "彩田路彩虹新都裙楼1层",
+    "location": "114.068398,22.536081",
+    "tel": "0755-82522207",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": "皇岗",
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/query_pic?id=st55bfbfdd-2456-4b24-aa00-9cedfd5be7b8&user=search&operate=original"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0KDF54J9B/comment/08a8c4f83804005e0faf97ee92f3f934_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0KDF54J9B/comment/D14054C7_5384_4DA0_8943_3197D68AD80D_L0_001_2000_150_1749019796656_60771198.jpg"
+      }
+    ],
+    "lng": 114.068398,
+    "lat": 22.536081,
+    "rating": 4.0,
+    "price_level": 1,
+    "popularity": 50,
+    "surrounding_population": 5000,
+    "competitors": 0,
+    "transport": 0.5
+  },
+  {
+    "id": "B0GD5L3X2X",
+    "name": "利宝阁(OneAvenue卓悦中心店)",
+    "type": "餐饮服务;中餐厅;广东菜(粤菜)",
+    "typecode": "050103",
+    "address": "岗厦社区福华路卓悦中心西区L5-504",
+    "location": "114.064347,22.536512",
+    "tel": "0755-88341366",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0GD5L3X2X/comment/3f47117edf0d01c9da3b5f3cdac59586_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0GD5L3X2X/comment/bb7efa65e0881be677d219f3161626a0_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0GD5L3X2X/comment/content_media_external_file_38927_ss__1756164355850_10087758.jpg"
+      }
+    ],
+    "lng": 114.064347,
+    "lat": 22.536512,
+    "rating": 4.2,
+    "price_level": 2,
+    "popularity": 60,
+    "surrounding_population": 8000,
+    "competitors": 1,
+    "transport": 0.6
+  },
+  {
+    "id": "B0HAD1H6B4",
+    "name": "汉阳廷自助烤肉(皇庭广场店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "福华三路118号皇庭广场B1层(会展中心地铁站C口旁)",
+    "location": "114.060468,22.533921",
+    "tel": "0755-83229167",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/33b12f503667567f7ae6c639a20bc06b"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/8751efce8d7be36f0335189ba56fe283"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0HAD1H6B4/comment/9dfcbed1b9fc0455bf058a6f1956438f_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.060468,
+    "lat": 22.533921,
+    "rating": 4.5,
+    "price_level": 2,
+    "popularity": 70,
+    "surrounding_population": 11000,
+    "competitors": 2,
+    "transport": 0.7
+  },
+  {
+    "id": "B0JK4APCY3",
+    "name": "大鸽饭(福田COCO Park店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "福华三路268号福田星河COCOPark商场三楼L3-021号商铺",
+    "location": "114.053592,22.532984",
+    "tel": "0755-82566375",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0JK4APCY3/comment/ea9c29c764d89b446edddd80a829b2c5_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0JK4APCY3/comment/05e5843fc559c45726ef8297bae35a5c_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/b256ee6d002bba581f3f272bde4c5a61"
+      }
+    ],
+    "lng": 114.053592,
+    "lat": 22.532984,
+    "rating": 4.7,
+    "price_level": 3,
+    "popularity": 80,
+    "surrounding_population": 14000,
+    "competitors": 3,
+    "transport": 0.8
+  },
+  {
+    "id": "B0JBPL6KA2",
+    "name": "寿司郎(皇庭广场店)",
+    "type": "餐饮服务;外国餐厅;日本料理",
+    "typecode": "050202",
+    "address": "福安社区福华三路118号皇庭国商购物广场L1楼29A30号商铺",
+    "location": "114.060432,22.533961",
+    "tel": [],
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/51d8a8cc2905ff8cb3f160f16909bd01"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0JBPL6KA2/comment/dcba372061dcc76bc5a78e72665f8341_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0JBPL6KA2/comment/C4822997_74D8_4412_8C53_28FB99403508_L0_001_2000_150_1754806469040_50488695.jpg"
+      }
+    ],
+    "lng": 114.060432,
+    "lat": 22.533961,
+    "rating": 4.9,
+    "price_level": 3,
+    "popularity": 90,
+    "surrounding_population": 17000,
+    "competitors": 4,
+    "transport": 0.9
+  },
+  {
+    "id": "B0FFLCSVT2",
+    "name": "汕头八合里海记牛肉店(卓悦中心店)",
+    "type": "餐饮服务;中餐厅;火锅店",
+    "typecode": "050117",
+    "address": "福华路346号岗厦城B1层B1108号",
+    "location": "114.066749,22.535508",
+    "tel": "0755-23944021",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/query_pic?id=st724a6e9a-91b8-4e08-813e-dc551cdf86ff&user=search&operate=original"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/82cbd109cf10622446b8493a67fafb37"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/5cf36c125e46e00f6ce543d089cd3467"
+      }
+    ],
+    "lng": 114.066749,
+    "lat": 22.535508,
+    "rating": 3.8,
+    "price_level": 4,
+    "popularity": 100,
+    "surrounding_population": 20000,
+    "competitors": 5,
+    "transport": 0.5
+  },
+  {
+    "id": "B02F37UK9L",
+    "name": "鹏湾大酒楼",
+    "type": "餐饮服务;中餐厅;综合酒楼",
+    "typecode": "050101",
+    "address": "景田南路一号橄榄绿洲家园商业四楼",
+    "location": "114.045408,22.543431",
+    "tel": "0755-82713338",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F37UK9L/comment/%5B2025-01-06-04-24-57%5D7F162699-A62D-42DD-9B13-056D0FE7C96_1736108699797_54868084.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F37UK9L/comment/content_media_external_images_media_100009866_1733783811384_97596523.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F37UK9L/comment/%5B2025-01-06-04-24-46%5D418C8E87-87F9-459B-95F4-F4C4ED993A0_1736108699796_35978028.jpg"
+      }
+    ],
+    "lng": 114.045408,
+    "lat": 22.543431,
+    "rating": 4.0,
+    "price_level": 1,
+    "popularity": 110,
+    "surrounding_population": 23000,
+    "competitors": 6,
+    "transport": 0.6
+  },
+  {
+    "id": "B02F38JBLS",
+    "name": "胜记酒家(卓越时代广场店)",
+    "type": "餐饮服务;中餐厅;广东菜(粤菜)|餐饮服务;中餐厅;海鲜酒楼",
+    "typecode": "050103|050119",
+    "address": "益田路4068号卓越时代广场3楼(平安金融中心对面)",
+    "location": "114.057210,22.533950",
+    "tel": "0755-23989122;0755-23989133",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F38JBLS/comment/4758a38d9455a0910c216361d483213d_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F38JBLS/comment/4c9b3b3f13b15ded7c72b33398bb5f59_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B02F38JBLS/comment/459cd806113de0fa206c688fdb9e7937_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.05721,
+    "lat": 22.53395,
+    "rating": 4.2,
+    "price_level": 2,
+    "popularity": 120,
+    "surrounding_population": 26000,
+    "competitors": 7,
+    "transport": 0.7
+  },
+  {
+    "id": "B0FFJK2NPE",
+    "name": "新荣记(平安金融中心店)",
+    "type": "餐饮服务;中餐厅;中餐厅",
+    "typecode": "050100",
+    "address": "益田路5003平安金融中心裙楼6楼",
+    "location": "114.055572,22.533065",
+    "tel": "0755-28681277",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFJK2NPE/comment/b59ae22cac5542ad55108185d1c8e551_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFJK2NPE/comment/e0aa53896c48fa51d444c26103d5133c_2048_2048_80.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0FFJK2NPE/comment/c5f50ef4d20fbbde9674ae491a634157_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.055572,
+    "lat": 22.533065,
+    "rating": 4.5,
+    "price_level": 2,
+    "popularity": 130,
+    "surrounding_population": 29000,
+    "competitors": 8,
+    "transport": 0.8
+  },
+  {
+    "id": "B0K0PSVBW0",
+    "name": "三出山火锅(深圳coco park店)",
+    "type": "餐饮服务;中餐厅;火锅店",
+    "typecode": "050117",
+    "address": "星河CoCopark购物广场二楼118号三出山",
+    "location": "114.054005,22.533567",
+    "tel": "15361633102",
+    "pname": "广东省",
+    "cityname": "深圳市",
+    "adname": "福田区",
+    "business_area": [],
+    "photos": [
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0K0PSVBW0/comment/content_media_external_images_media_48345_1734279439737_31963426.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0K0PSVBW0/comment/%5B2025-01-08-15-11-20%5DA53EF71A-753D-4B17-9087-DF2097B3557_1736320280739_45873935.jpg"
+      },
+      {
+        "title": [],
+        "url": "https://aos-comment.amap.com/B0K0PSVBW0/comment/b391916b268c6320e52c0bfd0865116d_2048_2048_80.jpg"
+      }
+    ],
+    "lng": 114.054005,
+    "lat": 22.533567,
+    "rating": 4.7,
+    "price_level": 3,
+    "popularity": 140,
+    "surrounding_population": 32000,
+    "competitors": 9,
+    "transport": 0.9
+  }
+]

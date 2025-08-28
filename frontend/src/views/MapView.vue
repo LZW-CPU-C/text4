@@ -50,6 +50,18 @@ import 'leaflet/dist/leaflet.css';
 import { onMounted, onBeforeUnmount, ref, nextTick } from 'vue';
 import axios from 'axios';
 
+// 修复 Leaflet 缩放动画错误
+if (typeof L !== 'undefined') {
+  L.Popup.prototype._animateZoom = function (e) {
+    if (!this._map) { // 检查_map对象是否存在
+      return;
+    }
+    var pos = this._map._latLngToNewLayerPoint(this._latlng, e.zoom, e.center),
+        anchor = this._getAnchor()
+    L.DomUtil.setPosition(this._container, pos.add(anchor))
+  }
+}
+
 export default {
   setup() {
     const clusterInfo = ref([
@@ -124,14 +136,19 @@ export default {
         mapInstance.value = L.map('map', {
           zoomSnap: 0.5, // 平滑缩放
           maxZoom: 18,
-          minZoom: 10
+          minZoom: 10,
+          // 禁用可能导致问题的动画
+          fadeAnimation: false,
+          zoomAnimation: false,
+          markerZoomAnimation: false
         }).setView(center, 12);
         
-        // 使用OpenStreetMap瓦片
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-          attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-          maxZoom: 19
-        }).addTo(mapInstance.value);
+       // 替换为高德瓦片（国内访问更快）
+L.tileLayer('https://webrd0{s}.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}', {
+  subdomains: ['1', '2', '3', '4'], // 高德瓦片服务器
+  attribution: '© 高德地图',
+  maxZoom: 19
+}).addTo(mapInstance.value);
         
         // 添加比例尺
         L.control.scale({
@@ -197,14 +214,12 @@ export default {
             // 确保地图对象有效
             if (!mapInstance.value) return;
             const center = mapInstance.value.getCenter();
-            // console.log('地图中心:', center.lat, center.lng);
           });
           
           // 添加缩放结束事件监听器
           mapInstance.value.on('zoomend', () => {
             if (!mapInstance.value) return;
             const zoom = mapInstance.value.getZoom();
-            // console.log('当前缩放级别:', zoom);
           });
           
         } catch (error) {
@@ -252,6 +267,15 @@ export default {
     // 组件卸载时清理地图
     onBeforeUnmount(() => {
       if (mapInstance.value) {
+        // 移除所有事件监听器
+        mapInstance.value.off();
+        
+        // 移除所有图层
+        mapInstance.value.eachLayer(layer => {
+          mapInstance.value.removeLayer(layer);
+        });
+        
+        // 销毁地图
         mapInstance.value.remove();
         mapInstance.value = null;
       }

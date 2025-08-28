@@ -10,11 +10,11 @@
     integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
     crossorigin=""/>
   
-  <!-- 预加载关键资源 -->
+  <!-- 预加载关键资源 - 修正as属性 -->
   <link rel="preconnect" href="https://tile.openstreetmap.org">
   <link rel="dns-prefetch" href="https://tile.openstreetmap.org">
   
-  <!-- 只预加载真正需要的资源 -->
+  <!-- 修正preload配置 -->
   <link rel="preload" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" as="script" crossorigin>
 </head>
 <body>
